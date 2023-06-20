@@ -43,3 +43,26 @@
 | Fundamentals | Easy | [Army Game](https://www.hackerrank.com/challenges/game-with-cells) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Mathematics/Easy%20-%20Army%20Game.c) |
 | Fundamentals | Medium | [Summing the N series](https://www.hackerrank.com/challenges/summing-the-n-series) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Mathematics/Medium%20-%20Summing%20the%20N%20series.c) |
 
+# Algorithms
+| Subdomain | Difficulty | Challenge | Solution |
+|:--:|:--:|:--:|:--:|
+| Will be edited | Easy | []() | [Click for solution]() |
+| Will be edited | Easy | []() | [Click for solution]() |
+| Will be edited | Easy | []() | [Click for solution]() |
+| Will be edited | Easy | []() | [Click for solution]() |
+| Will be edited | Easy | []() | [Click for solution]() |
+| Will be edited | Easy | []() | [Click for solution]() |
+| Will be edited | Easy | []() | [Click for solution]() |
+| Will be edited | Easy | []() | [Click for solution]() |
+| Will be edited | Easy | []() | [Click for solution]() |
+| Will be edited | Easy | []() | [Click for solution]() |
+| Will be edited | Easy | []() | [Click for solution]() |
+| Will be edited | Easy | []() | [Click for solution]() |
+| Will be edited | Easy | []() | [Click for solution]() |
+| Will be edited | Easy | []() | [Click for solution]() |
+| Will be edited | Easy | []() | [Click for solution]() |
+| Will be edited | Easy | []() | [Click for solution]() |
+| Will be edited | Easy | []() | [Click for solution]() |
+| Will be edited | Easy | []() | [Click for solution]() |
+| Will be edited | Easy | []() | [Click for solution]() |
+
