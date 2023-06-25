@@ -46,8 +46,8 @@
 # Algorithms
 | Subdomain | Difficulty | Challenge | Solution |
 |:--:|:--:|:--:|:--:|
-| Warmup | Easy | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [.](#) |
-| Warmup | Easy | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [.](#) |
+| Warmup | Easy | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Algorithms/Easy%20-%20Solve%20Me%20First.c) |
+| Warmup | Easy | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Algorithms/Easy%20-%20Simple%20Array%20Sum.c) |
 | Warmup | Easy | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Algorithms/Easy%20-%20Compare%20the%20Triplets.c) |
 | Warmup | Easy | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Algorithms/Easy%20-%20A%20Very%20Big%20Sum.c) |
 | Warmup | Easy | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Algorithms/Easy%20-%20Diagonal%20Difference.c) |
@@ -66,6 +66,7 @@
 | Implementation | Easy | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Algorithms/Easy%20-Counting%20Valleys.c) |
 | Implementation | Easy | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Algorithms/Easy%20-%20Cats%20and%20a%20Mouse.c) |
 | Implementation | Easy | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Algorithms/Easy%20-The%20Hurdle%20Race.c) |
+| Implementation | Easy | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Algorithms/Easy%20-%20Designer%20PDF%20Viewer.c) |
 | Implementation | Easy | [Next Problem...](#) | [.](#) |
 
 
