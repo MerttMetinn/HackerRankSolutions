@@ -73,5 +73,7 @@
 | 25 | Implementation | Easy | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Algorithms/Easy%20-%20Electronics%20Shop.c) |
 | 26 | Implementation | Easy | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Algorithms/Easy%20-%20Between%20Two%20Sets.c) |
 | 27 | Implementation | Easy | [Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner/problem) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Algorithms/Easy%20-%20Save%20the%20Prisoner!.c) |
-| 28 | Implementation | Easy | Next Problem... | Click for solution |
+| 28 | Implementation | Easy | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Algorithms/Easy%20-%20Divisible%20Sum%20Pairs.c) |
+| 29 | Implementation | Easy | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Algorithms/Easy%20-%20Drawing%20Book.c)|
+| 30 | Implementation | Easy | Next Problem... | Click for solution |
 
