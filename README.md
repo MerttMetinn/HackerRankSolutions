@@ -75,5 +75,6 @@
 | 27 | Implementation | Easy | [Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner/problem) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Algorithms/Easy%20-%20Save%20the%20Prisoner!.c) |
 | 28 | Implementation | Easy | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Algorithms/Easy%20-%20Divisible%20Sum%20Pairs.c) |
 | 29 | Implementation | Easy | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Algorithms/Easy%20-%20Drawing%20Book.c)|
-| 30 | Implementation | Easy | Next Problem... | Click for solution |
+| 30 | Implementation | Easy | [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Algorithms/Easy%20-%20Beautiful%20Days%20at%20the%20Movies.c) |
+| 31 | Implementation | Easy | Next Problem... | Click for solution |
 
