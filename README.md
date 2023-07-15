@@ -79,4 +79,5 @@
 | 31 | Implementation | Easy | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Algorithms/Easy%20-%20Picking%20Numbers.c) |
 | 32 | Implementation | Easy | [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Algorithms/Easy%20-%20Find%20Digits.c) |
 | 33 | Implementation | Easy | [Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Algorithms/Easy%20-%20Jumping%20on%20the%20Clouds%20Revisited.c) |
-| 34 | Implementation | Easy | Next Problem... | Click for solution |
+| 34 | Implementation | Easy | [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Algorithms/Easy%20-%20Sequence%20Equation.c) |
+| 35 | Implementation | Easy | Next Problem... | Click for solution |
