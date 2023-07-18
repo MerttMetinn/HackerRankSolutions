@@ -41,7 +41,10 @@
 | 5 | Fundamentals | Easy | [Restaurant](https://www.hackerrank.com/challenges/restaurant) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Mathematics/Easy%20-%20Restaurant.c) |
 | 6 | Fundamentals | Easy | [Strange Grid Again](https://www.hackerrank.com/challenges/strange-grid) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Mathematics/Easy%20-%20Strange%20Grid%20Again.c) |
 | 7 | Fundamentals | Easy | [Army Game](https://www.hackerrank.com/challenges/game-with-cells) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Mathematics/Easy%20-%20Army%20Game.c) |
-| 8 | Fundamentals | Medium | [Summing the N series](https://www.hackerrank.com/challenges/summing-the-n-series) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Mathematics/Medium%20-%20Summing%20the%20N%20series.c) |
+| 8 | Fundamentals | Easy | [Connecting Towns](https://www.hackerrank.com/challenges/connecting-towns/problem)| [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Mathematics/Easy%20-Connecting%20Towns.c) |
+| 9 | Fundamentals | Easy | [Cutting Paper Squares](https://www.hackerrank.com/challenges/p1-paper-cutting/problem) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Mathematics/Easy%20-%20Cutting%20Paper%20Squares.c) |
+| 10 | Fundamentals | Easy | [Sherlock and Moving Tiles](https://www.hackerrank.com/challenges/sherlock-and-moving-tiles/problem) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Mathematics/Easy%20-%20Sherlock%20and%20Moving%20Tiles.c)|
+| 11 | Fundamentals | Medium | [Summing the N series](https://www.hackerrank.com/challenges/summing-the-n-series) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Mathematics/Medium%20-%20Summing%20the%20N%20series.c) |
 
 # Algorithms
 | Counter | Subdomain | Difficulty | Challenge | Solution |
