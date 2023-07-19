@@ -84,4 +84,6 @@
 | 33 | Implementation | Easy | [Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Algorithms/Easy%20-%20Jumping%20on%20the%20Clouds%20Revisited.c) |
 | 34 | Implementation | Easy | [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Algorithms/Easy%20-%20Sequence%20Equation.c) |
 | 35 | Implementation | Medium | [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Algorithms/Medium%20-%20Extra%20Long%20Factorials.c) |
-| 35 | Implementation | Easy | Next Problem... | Click for solution |
+| 36 | Implementation | Easy | [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Algorithms/Easy%20-%20Cut%20the%20sticks.c) |
+| 37 | Implementation | Easy | Next Problem... | Click for solution |
+
