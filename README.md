@@ -85,5 +85,6 @@
 | 34 | Implementation | Easy | [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Algorithms/Easy%20-%20Sequence%20Equation.c) |
 | 35 | Implementation | Medium | [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Algorithms/Medium%20-%20Extra%20Long%20Factorials.c) |
 | 36 | Implementation | Easy | [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Algorithms/Easy%20-%20Cut%20the%20sticks.c) |
-| 37 | Implementation | Easy | Next Problem... | Click for solution |
-
+| 37 | Implementation | Easy | [Library Fine](https://www.hackerrank.com/challenges/library-fine/problem) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Algorithms/Easy%20-%20Library%20Fine.c) |
+| 38 | Implementation | Easy | [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Algorithms/Easy%20-%20Sherlock%20and%20Squares.c) |
+| 39 | Implementation | Easy | Next Problem... | Click for solution |
