@@ -87,4 +87,5 @@
 | 36 | Implementation | Easy | [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Algorithms/Easy%20-%20Cut%20the%20sticks.c) |
 | 37 | Implementation | Easy | [Library Fine](https://www.hackerrank.com/challenges/library-fine/problem) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Algorithms/Easy%20-%20Library%20Fine.c) |
 | 38 | Implementation | Easy | [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Algorithms/Easy%20-%20Sherlock%20and%20Squares.c) |
-| 39 | Implementation | Easy | Next Problem... | Click for solution |
+| 39 | Implementation | Easy | [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Algorithms/Easy%20-%20Repeated%20String.c) |
+| 40 | Implementation | Easy | Next Problem... | Click for solution |
