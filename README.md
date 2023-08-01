@@ -89,4 +89,5 @@
 | 38 | Implementation | Easy | [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Algorithms/Easy%20-%20Sherlock%20and%20Squares.c) |
 | 39 | Implementation | Easy | [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Algorithms/Easy%20-%20Repeated%20String.c) |
 | 40 | Implementation | Easy | [Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday/problem) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Algorithms/Easy%20-%20Taum%20and%20B'day.c) |
-| 41 | Implementation | Easy | Next Problem... | Click for solution |
+| 41 | Implementation | Easy | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Algorithms/Easy%20-%20Circular%20Array%20Rotation.c) |
+| 42 | Implementation | Easy | Next Problem... | Click for solution |
