@@ -92,4 +92,5 @@
 | 41 | Implementation | Easy | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Algorithms/Easy%20-%20Circular%20Array%20Rotation.c) |
 | 42 | Implementation | Medium | [Encryption](https://www.hackerrank.com/challenges/encryption/problem) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Algorithms/Medium%20-%20Encryption.c) |
 | 43 | Implementation | Easy | [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem) |[Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Algorithms/Easy%20-%20Equalize%20the%20Array.c)|
-| 44 | Implementation | Easy | Next Problem... | Click for solution |
+| 44 | Implementation | Easy | [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem) | [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Algorithms/Easy%20-%20Lisa's%20Workbook.c) |
+| 45 | Implementation | Easy | Next Problem... | Click for solution |
