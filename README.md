@@ -34,7 +34,7 @@
 
 | Counter | Subdomain | Difficulty | Challenge | Solution |
 |:--:|:--:|:--:|:--:|:--:|
-| 1 | Introduction | Easy | [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem?isFullScreen=true)| [Click for solution](#) |
+| 1 | Introduction | Easy | [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem?isFullScreen=true)| [Click for solution](https://github.com/MerttMetinn/HackerRankSolutions/blob/main/Java%20Problems/JavaDatatypes.java) |
 
 
 # Mathematics
