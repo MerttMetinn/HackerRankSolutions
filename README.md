@@ -30,6 +30,12 @@
 | 25 | Structs and Enums | Hard | [Structuring the Document](https://www.hackerrank.com/challenges/structuring-the-document/problem) | [.](#)
 
 <br></br>
+# JAVA
+
+| Counter | Subdomain | Difficulty | Challenge | Solution |
+|:--:|:--:|:--:|:--:|:--:|
+| 1 | Introduction | Easy | [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem?isFullScreen=true)| [Click for solution](#) |
+
 
 # Mathematics
 | Counter | Subdomain | Difficulty | Challenge | Solution |
